@@ -1,7 +1,7 @@
 # Maltimart Ecommerce
 
 ## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
+https://ecommerce-webapp-theta.vercel.app/
 
 ## 😎 Features
 
